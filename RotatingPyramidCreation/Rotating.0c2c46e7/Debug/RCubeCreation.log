@@ -1,0 +1,12 @@
+﻿  RotatingPyramidNoOOP.cpp
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(59,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(87,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(87,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(87,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(87,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(93,31): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(93,31): warning C4244:         with
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(93,31): warning C4244:         [
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(93,31): warning C4244:             _Rep=double
+C:\GLP\RCubeCreation\RotatingPyramidNoOOP.cpp(93,31): warning C4244:         ]
+  RCubeCreation.vcxproj -> C:\GLP\RCubeCreation\Debug\RotatingPyramidCreation.exe
